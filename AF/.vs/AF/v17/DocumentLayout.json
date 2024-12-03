@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\AF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\articlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\articlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\controllers\\articlecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\articlecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\iarticlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\iarticlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\donationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\donationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\controllers\\fundraisingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\fundraisingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\donationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\donationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\fundraising.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\fundraising.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\ifundraisingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\ifundraisingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|c:\\users\\dell\\source\\repos\\af\\af\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\ArticleCategory.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\ArticleCategory.cs",
+              "RelativeToolTip": "AF\\Models\\ArticleCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:02.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\ArticleCategoriesController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\ArticleCategoriesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\ArticleCategoriesController.cs",
+              "RelativeToolTip": "AF\\Controllers\\ArticleCategoriesController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:37:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Program.cs",
+              "RelativeDocumentMoniker": "AF\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Program.cs",
+              "RelativeToolTip": "AF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:05:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AF\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AF\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:02:51.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleCategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:35:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticleCategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:33:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonationCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\DonationCreateDto.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\DonationCreateDto.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\DonationCreateDto.cs",
+              "RelativeToolTip": "AF\\Models\\DonationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:07:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\ContactUs.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\ContactUs.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\ContactUs.cs",
+              "RelativeToolTip": "AF\\Models\\ContactUs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Donation.cs",
+              "RelativeToolTip": "AF\\Models\\Donation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:50:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Article.cs",
+              "RelativeToolTip": "AF\\Models\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "AF\\Controllers\\DonationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:37:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "AF\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:42:29.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:43:11.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonationsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\DonationsRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\DonationsRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\DonationsRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\DonationsRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:12:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fundraising.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Fundraising.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Fundraising.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Fundraising.cs",
+              "RelativeToolTip": "AF\\Models\\Fundraising.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:34:47.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Models\\Users.cs",
+              "RelativeToolTip": "AF\\Models\\Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:15.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FundRaisingController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\FundRaisingController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\FundRaisingController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Controllers\\FundRaisingController.cs",
+              "RelativeToolTip": "AF\\Controllers\\FundRaisingController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAwwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:45:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFundRaisingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\IFundRaisingRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\IFundRaisingRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\IFundRaisingRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\IFundRaisingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:46:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AF\\AF\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:01:31.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
